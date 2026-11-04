@@ -2,7 +2,9 @@
 
 A simple, responsive to-do list that helps you plan your day, set due dates, and see what is done, with no sign-up and no server.
 
-**Live demo:** [add your live link here after deploying]
+**Live demo:** [https://mondev883.github.io/todo-list-react/](https://mondev883.github.io/todo-list-react/)
+
+_The demo starts empty. Tasks you add are saved only in your own browser, so nobody else can see them._
 
 | Desktop | Phone |
 | --- | --- |
@@ -33,7 +35,7 @@ A simple, responsive to-do list that helps you plan your day, set due dates, and
 - Tailwind CSS
 - JavaScript (ES6)
 - Browser `localStorage` for saving data
-- [Vite] (check `package.json` and keep or remove this line)
+- [Vite](https://vite.dev) for development and builds
 
 ## Getting started
 
