@@ -9,4 +9,4 @@ export default defineConfig({
     tailwindcss()
   ],
   base: '/todo-list-react/',
-})
+})np
