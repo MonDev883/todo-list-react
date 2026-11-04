@@ -104,7 +104,7 @@ function ToDoList(){
     return (
         <div className="min-h-screen bg-[#d6f5ff] font-['Times_New_Roman',Times,serif] text-center px-3 sm:px-6 pt-10 sm:pt-16 lg:pt-24 pb-10">
 
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-blue-700 mb-6 sm:mb-8">To-Do-List</h1>
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 sm:mb-8">To-Do-List</h1>
 
             <div className="flex flex-col sm:flex-row sm:flex-wrap sm:items-center sm:justify-center gap-3 max-w-4xl 2xl:max-w-5xl mx-auto mb-6 sm:mb-8">
                 <input
@@ -142,8 +142,7 @@ function ToDoList(){
                         onClick={sortTasksByDate}
                         aria-label="Sort all tasks chronologically by date"
                     >
-                        Sort By Dategit add .
-                        
+                        Sort By Date.
                     </button>
                 </div>
             </div>
